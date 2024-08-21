@@ -1,0 +1,288 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.com" resolutions="1x" timestamp="1512839379251">
+  <folder name="css">
+    <file name="site_global.css" crc="191053375"/>
+    <file name="master_a-master.css" crc="499738373" ref="townhouse-sample-page:news:about:townhouse:condominium-sample-page:sample-news-page:single-house-sample-page:condominium:contact:index:single-house"/>
+    <file name="nomq_preview_master_a-master.css" crc="3895922803" ref="townhouse-sample-page:news:about:townhouse:condominium-sample-page:sample-news-page:single-house-sample-page:condominium:contact:index:single-house"/>
+    <file name="townhouse-sample-page.css" crc="4290737204" ref="townhouse-sample-page"/>
+    <file name="nomq_townhouse-sample-page.css" crc="210604390" ref="townhouse-sample-page"/>
+    <file name="iefonts_townhouse-sample-page.css" crc="173181809" ref="townhouse-sample-page"/>
+    <file name="news.css" crc="189061485" ref="news"/>
+    <file name="nomq_news.css" crc="3782822816" ref="news"/>
+    <file name="iefonts_news.css" crc="173181809" ref="news"/>
+    <file name="about.css" crc="120113295" ref="about"/>
+    <file name="nomq_about.css" crc="6913695" ref="about"/>
+    <file name="iefonts_about.css" crc="173181809" ref="about"/>
+    <file name="townhouse.css" crc="4095099319" ref="townhouse"/>
+    <file name="nomq_townhouse.css" crc="4245507923" ref="townhouse"/>
+    <file name="iefonts_townhouse.css" crc="173181809" ref="townhouse"/>
+    <file name="condominium-sample-page.css" crc="416819711" ref="condominium-sample-page"/>
+    <file name="nomq_condominium-sample-page.css" crc="530473606" ref="condominium-sample-page"/>
+    <file name="iefonts_condominium-sample-page.css" crc="173181809" ref="condominium-sample-page"/>
+    <file name="sample-news-page.css" crc="4054209017" ref="sample-news-page"/>
+    <file name="nomq_sample-news-page.css" crc="17854816" ref="sample-news-page"/>
+    <file name="iefonts_sample-news-page.css" crc="173181809" ref="sample-news-page"/>
+    <file name="single-house-sample-page.css" crc="4073925123" ref="single-house-sample-page"/>
+    <file name="nomq_single-house-sample-page.css" crc="253056940" ref="single-house-sample-page"/>
+    <file name="iefonts_single-house-sample-page.css" crc="173181809" ref="single-house-sample-page"/>
+    <file name="condominium.css" crc="4160800966" ref="condominium"/>
+    <file name="nomq_condominium.css" crc="3965507289" ref="condominium"/>
+    <file name="iefonts_condominium.css" crc="173181809" ref="condominium"/>
+    <file name="contact.css" crc="103887569" ref="contact"/>
+    <file name="nomq_contact.css" crc="4097386645" ref="contact"/>
+    <file name="iefonts_contact.css" crc="173181809" ref="contact"/>
+    <file name="index.css" crc="3758589020" ref="index"/>
+    <file name="nomq_index.css" crc="130153347" ref="index"/>
+    <file name="iefonts_index.css" crc="173181809" ref="index"/>
+    <file name="single-house.css" crc="4245321761" ref="single-house"/>
+    <file name="nomq_single-house.css" crc="152559310" ref="single-house"/>
+    <file name="iefonts_single-house.css" crc="173181809" ref="single-house"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="museutils.js" crc="4148063285" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="museconfig.js" crc="172512987" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="webpro.js" crc="3986320349" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u81863.php" crc="4077890300" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="require.js" crc="4159430777" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="form-u101220.php" crc="226114028" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="email.png" crc="3880295715" ref="index"/>
+    <file name="phone.png" crc="500167229" ref="index"/>
+    <file name="chokdee logo.png" crc="3872510616" seo="true" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="twitter.png" crc="4231525746" ref="index"/>
+    <file name="youtube.png" crc="3805226115" ref="index"/>
+    <file name="google-.png" crc="4160068027" ref="index"/>
+    <file name="instagram.png" crc="480710662" ref="index"/>
+    <file name="pinterest.png" crc="4115342223" ref="index"/>
+    <file name="facebook.png" crc="3909010546" ref="index"/>
+    <file name="slider1.jpg" crc="393077868" seo="true" ref="index"/>
+    <file name="slider2.jpg" crc="3791007473" seo="true" ref="index"/>
+    <file name="slider3.jpg" crc="3954847805" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="bedroom.png" crc="95266905" seo="true" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="bathroom.png" crc="451127355" seo="true" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="garage.png" crc="293464971" seo="true" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="area.png" crc="4080302926" seo="true" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="price.png" crc="4053545241" seo="true" ref="index:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="about-home1.jpg" crc="3796491756" ref="index:about"/>
+    <file name="background1.jpg" crc="3920330377" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="luxury.png" crc="3882016498" seo="true" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="location.png" crc="4135800326" seo="true" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="best price.png" crc="3872096637" seo="true" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="home caring.png" crc="333317259" seo="true" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="project-2.jpg" crc="4025322160" ref="index"/>
+    <file name="project-1.jpg" crc="4177949314" ref="index"/>
+    <file name="bedroom-1.png" crc="4103329115" seo="true" ref="index:single-house:townhouse:condominium"/>
+    <file name="bathroom-1.png" crc="3953827044" seo="true" ref="index:single-house:townhouse:condominium"/>
+    <file name="garage-1.png" crc="3872600996" seo="true" ref="index:single-house:townhouse:condominium"/>
+    <file name="area-1.png" crc="112913577" seo="true" ref="index:single-house:townhouse:condominium"/>
+    <file name="project-4.jpg" crc="180444816" ref="index"/>
+    <file name="project-3.jpg" crc="3945095597" ref="index"/>
+    <file name="project-6.jpg" crc="235709554" ref="index"/>
+    <file name="project-5.jpg" crc="4059747796" ref="index"/>
+    <file name="background2.jpg" crc="4190973670" ref="index"/>
+    <file name="news-1.jpg" crc="3931920288" ref="index:news"/>
+    <file name="news-2.jpg" crc="410536581" ref="index:news"/>
+    <file name="news-3.jpg" crc="3791637538" ref="index:news"/>
+    <file name="chokdee logo-footer.png" crc="289732052" seo="true" ref="index:sample-news-page:about:single-house:single-house-sample-page:townhouse:townhouse-sample-page:condominium:condominium-sample-page:news:contact"/>
+    <file name="background1-u81678-fr.jpg" crc="4048258329" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="background2-u86371-fr.jpg" crc="4048258329" ref="index"/>
+    <file name="background1-u81678-fr2.jpg" crc="307174382" ref="index:about:single-house-sample-page:townhouse-sample-page:condominium-sample-page"/>
+    <file name="background2-u86371-fr2.jpg" crc="4235524257" ref="index"/>
+    <file name="menu-normal.png" crc="333354502" ref="index"/>
+    <file name="menu-active.png" crc="4007095736" ref="index"/>
+    <file name="about-home1-u81688-fr.jpg" crc="4259244628" ref="index:about"/>
+    <file name="header-news.jpg" crc="3876759222" ref="sample-news-page:news"/>
+    <file name="time-pink.png" crc="149660790" ref="sample-news-page"/>
+    <file name="post1.jpg" crc="124140874" ref="sample-news-page"/>
+    <file name="popular post-1.jpg" crc="4240405605" ref="sample-news-page"/>
+    <file name="popular post-2.jpg" crc="3839359342" ref="sample-news-page"/>
+    <file name="popular post-3.jpg" crc="3815735523" ref="sample-news-page"/>
+    <file name="popular post-4.jpg" crc="350282140" ref="sample-news-page"/>
+    <file name="post2.jpg" crc="305280371" ref="sample-news-page"/>
+    <file name="post3.jpg" crc="450511529" ref="sample-news-page"/>
+    <file name="header-news-u103699-fr.jpg" crc="4170484994" ref="sample-news-page:news"/>
+    <file name="header-news-u103699-fr2.jpg" crc="4092145467" ref="sample-news-page:news"/>
+    <file name="header-about.jpg" crc="57156127" ref="about"/>
+    <file name="about-home2.jpg" crc="3788317972" ref="about"/>
+    <file name="header-about-u92462-fr.jpg" crc="4170484994" ref="about"/>
+    <file name="header-about-u92462-fr2.jpg" crc="4092145467" ref="about"/>
+    <file name="about-home2-u89408-fr.jpg" crc="4259244628" ref="about"/>
+    <file name="header-single house.jpg" crc="3890037851" ref="single-house:single-house-sample-page"/>
+    <file name="single house-2.jpg" crc="3938362058" ref="single-house"/>
+    <file name="single house-1.jpg" crc="467752691" ref="single-house"/>
+    <file name="single house-4.jpg" crc="168724395" ref="single-house"/>
+    <file name="single house-3.jpg" crc="382859526" ref="single-house"/>
+    <file name="single house-6.jpg" crc="56477263" ref="single-house"/>
+    <file name="single house-5.jpg" crc="3863650912" ref="single-house"/>
+    <file name="header-single house-u91416-fr.jpg" crc="4170484994" ref="single-house:single-house-sample-page"/>
+    <file name="header-single house-u91416-fr2.jpg" crc="4092145467" ref="single-house:single-house-sample-page"/>
+    <file name="about-single house1.jpg" crc="4221524980" ref="single-house-sample-page"/>
+    <file name="about-single house2.jpg" crc="3883048660" ref="single-house-sample-page"/>
+    <file name="gallery-single house1.jpg" crc="4042773284" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house2.jpg" crc="3920100671" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house3.jpg" crc="4247129091" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house4.jpg" crc="4008026430" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house5.jpg" crc="4059623183" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house1-crop-u95827.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house2-crop-u105139.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house3-crop-u105192.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house4-crop-u105245.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house5-crop-u105298.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house1-crop-u958272.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house2-crop-u1051392.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house3-crop-u1051922.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house4-crop-u1052452.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house5-crop-u1052982.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house1649x389.jpg" crc="534252920" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house2649x389.jpg" crc="534252920" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house3649x389.jpg" crc="534252920" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house4649x389.jpg" crc="534252920" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house5649x389.jpg" crc="534252920" seo="true" ref="single-house-sample-page"/>
+    <file name="gallery-single house1-crop-u958273.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house2-crop-u1051393.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house3-crop-u1051923.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house4-crop-u1052453.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="gallery-single house5-crop-u1052983.jpg" crc="3945319015" ref="single-house-sample-page"/>
+    <file name="about-single house1-u93439-fr.jpg" crc="4259244628" ref="single-house-sample-page"/>
+    <file name="about-single house2-u93438-fr.jpg" crc="4259244628" ref="single-house-sample-page"/>
+    <file name="gallery-single house1-crop-u95848.jpg" crc="523350159" ref="single-house-sample-page"/>
+    <file name="gallery-single house2-crop-u105124.jpg" crc="523350159" ref="single-house-sample-page"/>
+    <file name="gallery-single house3-crop-u105177.jpg" crc="523350159" ref="single-house-sample-page"/>
+    <file name="gallery-single house4-crop-u105230.jpg" crc="523350159" ref="single-house-sample-page"/>
+    <file name="gallery-single house5-crop-u105283.jpg" crc="523350159" ref="single-house-sample-page"/>
+    <file name="gallery-single house1-crop-u958274.jpg" crc="4146166689" ref="single-house-sample-page"/>
+    <file name="gallery-single house2-crop-u1051394.jpg" crc="4146166689" ref="single-house-sample-page"/>
+    <file name="gallery-single house3-crop-u1051924.jpg" crc="4146166689" ref="single-house-sample-page"/>
+    <file name="gallery-single house4-crop-u1052454.jpg" crc="4146166689" ref="single-house-sample-page"/>
+    <file name="gallery-single house5-crop-u1052984.jpg" crc="4146166689" ref="single-house-sample-page"/>
+    <file name="header-townhouse.jpg" crc="4138343299" ref="townhouse:townhouse-sample-page"/>
+    <file name="townhouse-2.jpg" crc="356167141" ref="townhouse"/>
+    <file name="townhouse-1.jpg" crc="3799948185" ref="townhouse"/>
+    <file name="townhouse-4.jpg" crc="4286156067" ref="townhouse"/>
+    <file name="townhouse-3.jpg" crc="3759912908" ref="townhouse"/>
+    <file name="townhouse-6.jpg" crc="4012156235" ref="townhouse"/>
+    <file name="townhouse-5.jpg" crc="3965491007" ref="townhouse"/>
+    <file name="header-townhouse-u96166-fr.jpg" crc="4170484994" ref="townhouse:townhouse-sample-page"/>
+    <file name="header-townhouse-u96166-fr2.jpg" crc="4092145467" ref="townhouse:townhouse-sample-page"/>
+    <file name="about-townhouse1.jpg" crc="4004060969" ref="townhouse-sample-page"/>
+    <file name="about-townhouse2.jpg" crc="487988535" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1.jpg" crc="300628455" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2.jpg" crc="4045156635" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3.jpg" crc="4286357929" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4.jpg" crc="4072254765" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5.jpg" crc="201691154" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1-crop-u102595.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2-crop-u105403.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3-crop-u105456.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4-crop-u105509.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5-crop-u105562.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1-crop-u1025952.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2-crop-u1054032.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3-crop-u1054562.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4-crop-u1055092.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5-crop-u1055622.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1649x389.jpg" crc="534252920" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2649x389.jpg" crc="534252920" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3649x389.jpg" crc="534252920" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4649x389.jpg" crc="534252920" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5649x389.jpg" crc="534252920" seo="true" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1-crop-u1025953.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2-crop-u1054033.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3-crop-u1054563.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4-crop-u1055093.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5-crop-u1055623.jpg" crc="3945319015" ref="townhouse-sample-page"/>
+    <file name="about-townhouse1-u97463-fr.jpg" crc="4259244628" ref="townhouse-sample-page"/>
+    <file name="about-townhouse2-u97418-fr.jpg" crc="4259244628" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1-crop-u102577.jpg" crc="523350159" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2-crop-u105388.jpg" crc="523350159" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3-crop-u105441.jpg" crc="523350159" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4-crop-u105494.jpg" crc="523350159" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5-crop-u105547.jpg" crc="523350159" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse1-crop-u1025954.jpg" crc="4146166689" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse2-crop-u1054034.jpg" crc="4146166689" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse3-crop-u1054564.jpg" crc="4146166689" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse4-crop-u1055094.jpg" crc="4146166689" ref="townhouse-sample-page"/>
+    <file name="gallery-townhouse5-crop-u1055624.jpg" crc="4146166689" ref="townhouse-sample-page"/>
+    <file name="header-condo.jpg" crc="3917578341" ref="condominium:condominium-sample-page"/>
+    <file name="condo-2.jpg" crc="4016197790" ref="condominium"/>
+    <file name="condo-1.jpg" crc="3905741375" ref="condominium"/>
+    <file name="condo-4.jpg" crc="3819490589" ref="condominium"/>
+    <file name="condo-3.jpg" crc="3952912410" ref="condominium"/>
+    <file name="condo-6.jpg" crc="205215196" ref="condominium"/>
+    <file name="condo-5.jpg" crc="201702984" ref="condominium"/>
+    <file name="header-condo-u97692-fr.jpg" crc="4170484994" ref="condominium:condominium-sample-page"/>
+    <file name="header-condo-u97692-fr2.jpg" crc="4092145467" ref="condominium:condominium-sample-page"/>
+    <file name="about-condo1.jpg" crc="425777054" ref="condominium-sample-page"/>
+    <file name="about-condo2.jpg" crc="396501039" ref="condominium-sample-page"/>
+    <file name="gallery-condo1.jpg" crc="3805210067" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo2.jpg" crc="3759637070" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo3.jpg" crc="531250368" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo4.jpg" crc="21900317" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo5.jpg" crc="394897817" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo1-crop-u98708.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo2-crop-u105676.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo3-crop-u105729.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo4-crop-u105782.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo5-crop-u105835.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo1-crop-u987082.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo2-crop-u1056762.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo3-crop-u1057292.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo4-crop-u1057822.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo5-crop-u1058352.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo1649x389.jpg" crc="534252920" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo2649x389.jpg" crc="534252920" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo3649x389.jpg" crc="534252920" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo4649x389.jpg" crc="534252920" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo5649x389.jpg" crc="534252920" seo="true" ref="condominium-sample-page"/>
+    <file name="gallery-condo1-crop-u987083.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo2-crop-u1056763.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo3-crop-u1057293.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo4-crop-u1057823.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="gallery-condo5-crop-u1058353.jpg" crc="3945319015" ref="condominium-sample-page"/>
+    <file name="about-condo1-u98755-fr.jpg" crc="4259244628" ref="condominium-sample-page"/>
+    <file name="about-condo2-u98753-fr.jpg" crc="4259244628" ref="condominium-sample-page"/>
+    <file name="gallery-condo1-crop-u98691.jpg" crc="523350159" ref="condominium-sample-page"/>
+    <file name="gallery-condo2-crop-u105661.jpg" crc="523350159" ref="condominium-sample-page"/>
+    <file name="gallery-condo3-crop-u105714.jpg" crc="523350159" ref="condominium-sample-page"/>
+    <file name="gallery-condo4-crop-u105767.jpg" crc="523350159" ref="condominium-sample-page"/>
+    <file name="gallery-condo5-crop-u105820.jpg" crc="523350159" ref="condominium-sample-page"/>
+    <file name="gallery-condo1-crop-u987084.jpg" crc="4146166689" ref="condominium-sample-page"/>
+    <file name="gallery-condo2-crop-u1056764.jpg" crc="4146166689" ref="condominium-sample-page"/>
+    <file name="gallery-condo3-crop-u1057294.jpg" crc="4146166689" ref="condominium-sample-page"/>
+    <file name="gallery-condo4-crop-u1057824.jpg" crc="4146166689" ref="condominium-sample-page"/>
+    <file name="gallery-condo5-crop-u1058354.jpg" crc="4146166689" ref="condominium-sample-page"/>
+    <file name="news-4.jpg" crc="201577742" ref="news"/>
+    <file name="news-5.jpg" crc="3919854606" ref="news"/>
+    <file name="news-6.jpg" crc="3883215190" ref="news"/>
+    <file name="header-contact.jpg" crc="30579329" ref="contact"/>
+    <file name="header-contact-u101326-fr.jpg" crc="4170484994" ref="contact"/>
+    <file name="header-contact-u101326-fr2.jpg" crc="4092145467" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="316441280" seo="true" mt="1512835895692" redirect="true"/>
+  <file name="sample-news-page.html" crc="3898387419" seo="true" mt="1512835636893" redirect="true"/>
+  <file name="about.html" crc="4029056030" seo="true" mt="1512834861697" redirect="true"/>
+  <file name="single-house.html" crc="444351100" seo="true" mt="1512837609495" redirect="true"/>
+  <file name="single-house-sample-page.html" crc="3940524355" seo="true" mt="1512835139357" redirect="true"/>
+  <file name="townhouse.html" crc="469551080" seo="true" mt="1512837997979" redirect="true"/>
+  <file name="townhouse-sample-page.html" crc="343908276" seo="true" mt="1512835170716" redirect="true"/>
+  <file name="condominium.html" crc="3767032599" seo="true" mt="1512835053920" redirect="true"/>
+  <file name="condominium-sample-page.html" crc="3849554774" seo="true" mt="1512835053921" redirect="true"/>
+  <file name="news.html" crc="4131884595" seo="true" mt="1512835304127" redirect="true"/>
+  <file name="contact.html" crc="407401735" seo="true" mt="1512835076432" redirect="true"/>
+</manifest>
